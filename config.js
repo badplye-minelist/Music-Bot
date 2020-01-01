@@ -1,5 +1,3 @@
-exports.TOKEN = '';
-
-exports.PREFIX = 'm!';
+exports.PREFIX = 'am!';
 
 exports.GOOGLE_API_KEY = '';
